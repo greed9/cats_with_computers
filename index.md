@@ -1,2 +1,3 @@
 Test page for cats with computers
-[About Stinky](stinky.md)
+
+[About Stinky]({% link stinky.md %})
